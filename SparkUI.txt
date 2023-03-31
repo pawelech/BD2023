@@ -1,0 +1,1 @@
+w Spark UI możemy podglądnąć wykonane joby na tym clustrze. Zauważyc można też podział na stage, czas wykonania, date oraz liczbe Tasków które wykonały sie z sukcesem i wszystkich Tasków. Widoczne też są dane co do zasobów pamięci. Jest również zakładka dla wykonanych Query, oraz kolejna z informacją o trwających sesjach i SQL statements. Generowane tu są też statystyki.
